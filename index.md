@@ -1,8 +1,4 @@
----
-layout: default
-title: Privacy Policy
----
-# Go to the Delete Account Page (delete_account.html) for info on deleting any account created using RnCApp, XDFamil or KomKal
+
 
 # XDFamily Support & Privacy
 
