@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+---
+# Go to the Delete Account Page (delete_account.html) for info on deleting any account created using RnCApp, XDFamil or KomKal
+
 # XDFamily Support & Privacy
 
 Welcome to the official support page for **XDFamily**. We are dedicated to helping you preserve your family history with total privacy.
